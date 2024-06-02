@@ -1,7 +1,7 @@
 # Titanic Survival Prediction
 
 ## Objective
-The goal of this project is to build predictive models to determine the survival of passengers on the Titanic. The models are trained on a dataset that includes various features such as age, sex, passenger class, and more. The final work is in titanic_update.ipynb .
+The goal of this project is to build predictive models to determine the survival of passengers on the Titanic. The models are trained on a dataset that includes various features such as age, sex, passenger class, and more. The final work is in [titanic_updated.ipynb](https://github.com/alexisvannson/titanic-survival-prediction/blob/main/titanic_updated.ipynb).
 
 ## The Dataset
 The dataset used in this project is the Titanic dataset, which contains information about the passengers on the Titanic, including whether they survived or not. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/c/titanic/data).
